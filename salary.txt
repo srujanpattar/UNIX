@@ -1,0 +1,15 @@
+1234|r.k.sharma|m.d|finance|03/05/41|15000
+1235|s.p.verma|hr|hr|21/07/45|8000
+1236|a.s.mehta|g.m|sales|14/02/40|12000
+1237|v.k.iyer|manager|it|09/11/43|9500
+1238|p.r.nair|g.m|marketing|17/08/42|11000
+1239|d.s.reddy|exec|sales|25/12/46|7000
+1240|k.m.joshi|manager|finance|30/01/44|9800
+1241|n.t.singh|g.m|hr|19/03/41|13000
+1242|r.d.patel|exec|it|22/06/45|6000
+1243|m.l.khan|manager|sales|11/09/43|9200
+1244|s.r.gupta|g.m|finance|05/04/40|14000
+1245|a.n.chowdhury|exec|marketing|28/10/46|7500
+1246|v.s.pillai|manager|hr|16/01/42|8800
+1247|h.k.mishra|g.m|it|07/07/41|12500
+1248|t.r.das|exec|sales|13/03/45|6700
